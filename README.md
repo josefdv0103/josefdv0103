@@ -1,5 +1,5 @@
 ### Olá👋, tudo certo? Espero que sim! 
-#### Meu nome é José Augusto, mas pode me chamar de JA (pronûncia é jota a)
+#### Meu nome é José Augusto (mas pode me chamar de JotaA "JA")
 
 - 🔭 Hoje estou em uma estágio de iniciação científica no LiEB no Laboratório de Engenharia Biológica
 - 🌱 Estou estudando na UFSC Engenharia de Alimentos e Programação em Python que será necessário em meu estágio
