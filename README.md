@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá👋, tudo certo? Espero que sim! 
+#### Meu nome é José Augusto, mas pode me chamar de JA (pronûncia é jota a)
 
-<!--
-**josefdv0103/josefdv0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou em uma estágio de iniciação científica no LiEB no Laboratório de Engenharia Biológica
+- 🌱 Estou estudando na UFSC Engenharia de Alimentos e Programação em Python que será necessário em meu estágio
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/josefdv0103">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefdv0103&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefdv0103&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+   <img align="center" alt="Rafa-Python" height="30" width="90" 
+src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+ 
+<div> 
+
+  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-florentino-dela-vedova-a4b060191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
