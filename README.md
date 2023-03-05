@@ -1,8 +1,9 @@
 ### Olá👋, tudo certo? Espero que sim! 
 #### Meu nome é José Augusto (mas pode me chamar de JotaA "JA")
 
-- 🔭 Hoje estou em um estágio de iniciação científica no LiEB no Laboratório de Engenharia Biológica
-- 🌱 Estou estudando na UFSC Engenharia de Alimentos e Programação em Python que será necessário em meu estágio
+- 🔭 Hoje estou em um grupo de estudo sobre logística (GELOG).
+- 🌱 Estou estudando na UFSC Engenharia de Alimentos e Programação em Python é a minha principal linguagem de programação.
+- 👨‍💻 Gosto muito de aprender sobre manipulação de dados, e atualmente é onde estou focando meus estudos
 
  <div>
   <a href="https://github.com/josefdv0103">
